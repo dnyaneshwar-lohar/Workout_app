@@ -10,6 +10,7 @@ STEPS:-
 4. wait for a few minutes until all process import have finished
 
 OVERVIEW:-
+
 Welcome to the world of fitness and convenience! I'm thrilled to present to you the 7-Minute Workout App, 
 your ultimate companion on the journey to a healthier and fitter lifestyle. 
 Whether you're a beginner looking to kickstart your fitness routine or a seasoned fitness enthusiast seeking a quick and effective workout, 
